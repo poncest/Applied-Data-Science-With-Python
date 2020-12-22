@@ -1,4 +1,4 @@
-# Applied_Data_Science_With_Python
+# Applied Data Science With Python
 
 This is a GitHub Repository for Coursera Applied Data Science with Python Specialization.
 
